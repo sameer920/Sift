@@ -55,9 +55,15 @@ sift/
    pip install -r requirements.txt
    ```
 3. Install the browser engine:
+   For **Windows** use:
    ```bash
-   playwright install firefox
+   camoufox fetch
    ```
+   For **Mac OS** use:
+   ```bash
+   python3 -m camoufox fetch
+   ```
+   For more information on how to install camoufox visit [Camoufox Installation](https://camoufox.com/python/installation/)
 
 ### Basic Usage
 Run the scraper directly from the command line:
