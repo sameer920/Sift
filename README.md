@@ -47,7 +47,7 @@ sift/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sift.git
+   git clone https://github.com/sameer920/sift.git
    cd sift
    ```
 2. Install dependencies:
