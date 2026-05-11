@@ -4,8 +4,8 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Playwright](https://img.shields.io/badge/powered%20by-Playwright-green.svg)](https://playwright.dev/)
 
-> [!CAUTION]
-> **LEGAL DISCLAIMER**: This software is for **educational purposes only**. The author is not responsible for any misuse, legal consequences, or damages resulting from the use of this tool. By using this software, you agree to the terms in the [DISCLAIMER.md](DISCLAIMER.md). This project is **not affiliated with Google**.
+
+
 
 A powerful, stealthy, and localized Google Search Result Page (SERP) scraper. Designed as a **free, self-hosted alternative to Serper.dev**, this tool is built specifically for AI agents and developers who need high-quality search data without the API costs.
 
@@ -106,13 +106,13 @@ Contributions are welcome! If you find a bug or have a feature request:
 
 ---
 
-## ⚖️ License
+## 📜 License
 
 Distributed under the AGPL v3 License. See `LICENSE` for more information.
 
----
 
-# Legal Disclaimer
+
+## ⚖️ Legal Disclaimer
 
 This software is for **educational and research purposes only**. The author does not condone or encourage the scraping of Google Search Result Pages (SERP) in violation of their [Terms of Service](https://policies.google.com/terms).
 
