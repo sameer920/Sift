@@ -191,7 +191,7 @@ def search(query: str, num_results: int = 10, *, headless: bool = True,
 if __name__ == "__main__":
     import argparse
     
-    parser = argparse.ArgumentParser(description="Google SERP Scraper (Serper compatible)")
+    parser = argparse.ArgumentParser(description="Sift - Local First Google SERP Scraping Utility")
     parser.add_argument("query", help="Search query")
     parser.add_argument("--num", type=int, default=10, help="Number of results needed (default: 10)")
     parser.add_argument("--headful", action="store_true", help="Run in headful mode (visible)")

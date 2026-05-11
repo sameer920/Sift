@@ -1,4 +1,4 @@
-# 🚀 Google SERP Scraper
+# 🚀 Sift: A Local First SERP Scraping Utility for AI Agents
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -7,7 +7,7 @@
 
 
 
-A powerful, stealthy, and localized Google Search Result Page (SERP) scraper. Designed as a **free, self-hosted alternative to Serper.dev**, this tool is built specifically for AI agents and developers who need high-quality search data without the API costs.
+**Sift** is a powerful, stealthy, and localized Google Search Result Page (SERP) scraper. Designed as a **free, self-hosted alternative to Serper.dev**, this tool is built specifically for AI agents and developers who need high-quality search data without the API costs.
 
 ---
 
@@ -24,7 +24,7 @@ A powerful, stealthy, and localized Google Search Result Page (SERP) scraper. De
 ## 🏗 Project Structure
 
 ```text
-googleSerpScraper/
+sift/
 ├── scraper.py           # Main CLI entry point and orchestration logic
 ├── browser/
 │   └── manager.py       # Camoufox/Playwright context management
@@ -47,8 +47,8 @@ googleSerpScraper/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/googleSerpScraper.git
-   cd googleSerpScraper
+   git clone https://github.com/yourusername/sift.git
+   cd sift
    ```
 2. Install dependencies:
    ```bash
@@ -96,7 +96,7 @@ Google may occasionally present a CAPTCHA. Because we use a persistent browser p
 ## 🤝 Contributing
 
 Contributions are welcome! If you find a bug or have a feature request:
-1. **Flag Issues**: Use the [GitHub Issues](https://github.com/sameer920/googleSerpScraper/issues) page. Please include the query used and a screenshot if possible.
+1. **Flag Issues**: Use the [GitHub Issues](https://github.com/sameer920/sift/issues) page. Please include the query used and a screenshot if possible.
 2. **Submit PRs**: 
    - Fork the repo.
    - Create a feature branch (`git checkout -b feature/amazing-feature`).
